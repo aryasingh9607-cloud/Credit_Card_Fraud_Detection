@@ -64,11 +64,6 @@ This repository includes a complete publication-ready research paper formatted i
 * **Title**: *Autonomous Credit Card Fraud Detection and Operational Risk Intelligence Framework Using Imbalance-Tuned Ensembles and Explainable AI*
 * **Authors**: Arya Singh, Patel Kashak, Mantra Shah
 * **Affiliation**: Department of Computer Science and Engineering, UIT, Karnavati University, Gandhinagar, India
-* **Formats Available**:
-  * 📝 **Word File (.docx)**: [`IEEE_Credit_Card_Fraud_Detection_Paper.docx`](IEEE_Credit_Card_Fraud_Detection_Paper.docx)
-  * 📕 **PDF Document**: [`IEEE_Credit_Card_Fraud_Detection_Paper.pdf`](IEEE_Credit_Card_Fraud_Detection_Paper.pdf)
-* **Contents**: 8 Pages, 8 high-resolution 300 DPI figures, 2 comprehensive tables, 12 mathematical equations, and 22 formal IEEE citations.
-
 ---
 
 ## ✨ Features & Capabilities
