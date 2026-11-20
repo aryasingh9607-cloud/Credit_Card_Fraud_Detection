@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Dataset (Exceeds GitHub 100MB limit; download link provided in README)
+dataset/creditcard.csv
+*.zip
+*.tar.gz
+
+# Microsoft Word & Office temporary lock files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Research Paper files (to protect from public plagiarism / pre-publication flags)
+IEEE_Credit_Card_Fraud_Detection_Paper.docx
+IEEE_Credit_Card_Fraud_Detection_Paper.pdf
+paper_figures/
+build_ieee_paper.py
+generate_ieee_figures.py
+
+# Optional Windows-only launcher scripts (use 'streamlit run app.py' instead)
+run_app.bat
+setup_for_friend.bat
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit logs
+.streamlit/secrets.toml
