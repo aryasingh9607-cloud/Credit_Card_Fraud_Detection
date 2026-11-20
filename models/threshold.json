@@ -1,0 +1,8 @@
+{
+  "dummy": 0.5,
+  "logistic_regression": 0.99,
+  "decision_tree": 0.99,
+  "random_forest": 0.61,
+  "xgboost": 0.96,
+  "isolation_forest": 0.5
+}
